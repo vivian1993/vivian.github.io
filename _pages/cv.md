@@ -11,49 +11,35 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Sichuan University, 2015
+* M.S. in Arizona State University, 2017
+* Ph.D in UCLA, 2023 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* June 2021 – Dec 2021: Applied Scientist
+  * Amazon
+  * Duties: Develop a novel Transformers-based model for automatic data cleaning purpose.
+  * Supervisor: Xian Li
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* June 2020 – Dec 2020: Applied Scientist
+  * Amazon
+  * Duties: Develop an end-to-end embedding learning framework, PGE, to jointly leverage both text information and graph structure in PG to learn embeddings for error detection.
+  * Supervisor: Xin Luna Dong
+
+* Mar 2018 – Aug 2018: Research Intern
+  * Webank
+  * Duties: Develop an open-source lossless privacy-preserving tree-boosting system known as SecureBoost in the setting of federated learning. 
+  * Supervisor: Prof. Qiang Yang
+
+* Aug 2017 – Dec 2017: Research Intern
+  * MSRA
+  * Duties: Investigated cold start link prediction by leveraging HIN (heterogeneous information network) among users. 
+  * Supervisor: Yashu Liu
+
+* May 2017 – Aug 2017: Research Intern
+  * Didi
+  * Duties: Investigated cold start link prediction by leveraging HIN (heterogeneous information network) among users. 
+  * Supervisor: Yashu Liu
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
