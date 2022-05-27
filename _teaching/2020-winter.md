@@ -3,5 +3,5 @@ title: "CS 31: Introducton to Computer Science 1"
 collection: teaching
 type: "Undergraduate"
 venue: "UCLA"
-date: Winter 2020 
+date: 2020-01-03
 ---
