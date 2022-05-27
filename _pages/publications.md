@@ -29,17 +29,21 @@ Antoni Viros Martin, **Kewei Cheng**, Amy Fang, Zhaoliang Zheng, Hadas Kress-Gaz
 Ankur Mehta, Daniel Selva, Yizhou Sun <br>
 AIAA Scitech 2021 Forum.
 
-5. Streaming Link Prediction on Dynamic Attributed Networks. [\[PDF\]]() <br>
+5. Streaming Link Prediction on Dynamic Attributed Networks. [\[PDF\]](https://dl.acm.org/doi/pdf/10.1145/3159652.3159674) <br>
 Jundong Li, **Kewei Cheng**, Liang Wu and Huan Liu. <br>
 ACM International Conference on Web Search and Data Mining (**WSDM 2018**). 
 
-6. Unsupervised Feature Selection in Signed Social Networks. [\[PDF\]]() <br>
-**Kewei Cheng**, Jundong Li, Jiliang Tang and Huan Liu. <br>
-ACM International Conference on Web Search and Data Mining (**WSDM 2018**). 
+6. Unsupervised Feature Selection in Signed Social Networks. [\[PDF\]](https://dl.acm.org/doi/pdf/10.1145/3097983.3098106) <br>
+**Kewei Cheng\***, Jundong Li\* and Huan Liu. <br>
+ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD 2017**). 
 
-7. FeatureMiner: A Tool for Interactive Feature Selection. [\[PDF\]]() <br>
+7. Unsupervised Sentiment Analysis with Signed Social Networks. [\[PDF\]](https://www.public.asu.edu/~huanliu/papers/AAAI2017.pdf) <br>
+**Kewei Cheng**, Jundong Li, Jiliang Tang and Huan Liu. <br>
+Association for the Advancement of Artificial Intelligence (**AAAI 2017**). 
+
+8. FeatureMiner: A Tool for Interactive Feature Selection. [\[PDF\]](https://dl.acm.org/doi/pdf/10.1145/2983323.2983329) <br>
 **Kewei Cheng**, Jundong Li and Huan Liu. <br>
-ACM International Conference on Web Search and Data Mining (**WSDM 2018**). 
+ACM International Conference on Information and Knowledge Management (**CIKM 2016**). 
 
 ### Journal Papers
 1. SecureBoost: A Lossless Federated Learning Framework [\[PDF\]](https://arxiv.org/pdf/1901.08755.pdf) [\[Code\]](https://github.com/FederatedAI/FATE) <br>
