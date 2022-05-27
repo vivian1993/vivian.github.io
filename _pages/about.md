@@ -12,7 +12,7 @@ I am a forth-year Ph.D. student at the UCLA, now working with [Prof. Yizhou Sun]
 
 Research Interests
 ---
-I have abundant interest in **Knowledge Graph Reasoning**, **Neural-Symbolic Reasoning** and **General Graph Mining** and corresponding interdisciplinary topics.
+I have abundant interest in **Knowledge Graph Reasoning**, **Neural-Symbolic Integration** and **General Graph Mining** and corresponding interdisciplinary topics.
 
 Services
 ------
