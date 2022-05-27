@@ -1,5 +1,5 @@
 ---
-title: "Teaching assistant of CS 143: Data Management System"
+title: "CS 143: Data Management Systemsistant of "
 collection: teaching
 type: "Undergraduate"
 venue: "UCLA"

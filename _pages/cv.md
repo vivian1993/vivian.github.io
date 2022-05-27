@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Education"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,8 +8,6 @@ redirect_from:
 ---
 
 {% include base_path %}
-
-Education
 ======
 * Ph.D in UCLA, 2023 (expected)
 * M.S. in Arizona State University, 2017
