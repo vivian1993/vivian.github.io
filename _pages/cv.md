@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-======
+
 * Ph.D in UCLA, 2023 (expected)
 * M.S. in Arizona State University, 2017
 * B.S. in Sichuan University, 2015
