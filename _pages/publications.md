@@ -11,15 +11,15 @@ Xin Jiang\*, **Kewei Cheng\***, Song Jiang\*, Yizhou Sun <br>
 
 ## Conference Publications
 1. (To appear) RLogic: Recursive Logical Rule
-Learning from Knowledge Graphs. [\[PDF\]](https://vivian.github.io//publications/) [\[Code\]](https://vivian.github.io//publications/) [\[Slides\]](https://vivian.github.io//publications/)<br>
+Learning from Knowledge Graphs. [\[PDF\]](https://vivian1993.github.io//publications/) [\[Code\]](https://vivian1993.github.io//publications/) [\[Slides\]](https://vivian1993.github.io//publications/)<br>
 **Kewei Cheng**, Jiahao Liu, Wei Wang, Yizhou Sun <br>
 ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD 2022**). 
 
-2. PGE: Product Graph Embedding Learning for Error Detection. [\[PDF\]](https://arxiv.org/pdf/2202.09747.pdf) [\[Slides\]](https://vivian.github.io//publications/))<br>
+2. PGE: Product Graph Embedding Learning for Error Detection. [\[PDF\]](https://arxiv.org/pdf/2202.09747.pdf) [\[Slides\]](https://vivian1993.github.io//publications/))<br>
 **Kewei Cheng**, Xian Li, Yifan Ethan Xu, Xin Luna Dong and Yizhou Sun <br>
 International Conference on Very Large Databases (**VLDB 2022**). 
 
-3. UniKER: A Unified Framework for Combining Embedding and DefiniteHorn Rule Reasoning for Knowledge Graph Inference [\[PDF\]](https://aclanthology.org/2021.emnlp-main.769.pdf) [\[Code\]](https://github.com/vivian1993/UniKER) [\[Slides\]](https://vivian.github.io//publications/)<br>
+3. UniKER: A Unified Framework for Combining Embedding and DefiniteHorn Rule Reasoning for Knowledge Graph Inference [\[PDF\]](https://aclanthology.org/2021.emnlp-main.769.pdf) [\[Code\]](https://github.com/vivian1993/UniKER) [\[Slides\]](https://vivian1993.github.io//publications/)<br>
 **Kewei Cheng**, Ziqing Yang, Ming Zhang and Yizhou Sun <br>
 Conference on Empirical Methods in Natural Language Processing (**EMNLP 2021**). 
 ICML Workshop on Graph Representation Learning and Beyond 2020.
