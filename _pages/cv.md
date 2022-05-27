@@ -13,7 +13,7 @@ redirect_from:
 * M.S. in Arizona State University, 2017
 * B.S. in Sichuan University, 2015
 
-Work experience
+Work Experience
 ======
 
 * Applied Scientist (June 2021 – Dec 2021)
