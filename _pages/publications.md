@@ -7,7 +7,7 @@ author_profile: true
 
 ## Preprints
 1. Chordal-GCN: Exploiting Sparsity in Training Large-Scale Graph Convolutional Networks. [\[PDF\]](https://openreview.net/forum?id=rJl05AVtwB) <br>
-Xin Jiang*, **Kewei Cheng\***, Song Jiang*, Yizhou Sun <br>
+Xin Jiang\*, **Kewei Cheng\***, Song Jiang\*, Yizhou Sun <br>
 
 ## Conference Publications
 1. (To appear) RLogic: Recursive Logical Rule
