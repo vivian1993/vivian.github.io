@@ -15,7 +15,11 @@ redirect_from:
 
 Work Experience
 ======
-
+* Applied Scientist (June 2022 – Sep 2022)
+  * Company: Intel AI Lab
+  * Duties: Develop logical rule learning framework for knowledge graph reasoning.
+  * Supervisor: Nesreen Ahmed
+  
 * Applied Scientist (June 2021 – Dec 2021)
   * Company: Amazon
   * Duties: Develop a novel Transformers-based model for automatic data cleaning purpose.
