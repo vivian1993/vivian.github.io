@@ -61,8 +61,7 @@ Journal of Networks (**JNW 2014**)
 
 ### Workshop Papers
 1. NoiGAN: Noise Aware Knowledge Graph Embedding with GAN. <br>
-**Kewei Cheng**, Yikai Zhu, Ming Zhang, Yizhou Sun.
- <br>
+**Kewei Cheng**, Yikai Zhu, Ming Zhang, Yizhou Sun <br>
 DLG-KDD'20 Workshop
 
 2. SecureBoost: A Lossless Federated Learning Framework <br>
