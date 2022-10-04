@@ -15,7 +15,7 @@ Learning from Knowledge Graphs. [\[PDF\]](https://web.cs.ucla.edu/~yzsun/papers/
 **Kewei Cheng**, Jiahao Liu, Wei Wang, Yizhou Sun <br>
 ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD 2022**). 
 
-2. PGE: Product Graph Embedding Learning for Error Detection. [\[PDF\]](https://arxiv.org/pdf/2202.09747.pdf) [\[Slides\]](https://vivian1993.github.io//publications/))<br>
+2. PGE: Product Graph Embedding Learning for Error Detection. [\[PDF\]](https://arxiv.org/pdf/2202.09747.pdf) [\[Slides\]](https://vivian1993.github.io//publications/) <br>
 **Kewei Cheng**, Xian Li, Yifan Ethan Xu, Xin Luna Dong and Yizhou Sun <br>
 International Conference on Very Large Databases (**VLDB 2022**). 
 
@@ -41,7 +41,7 @@ ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD 2017**).
 **Kewei Cheng**, Jundong Li, Jiliang Tang and Huan Liu. <br>
 Association for the Advancement of Artificial Intelligence (**AAAI 2017**). 
 
-8. FeatureMiner: A Tool for Interactive Feature Selection. [\[PDF\]](https://dl.acm.org/doi/pdf/10.1145/2983323.2983329) <br>
+8. FeatureMiner: A Tool for Interactive Feature Selection. [\[PDF\]](https://dl.acm.org/doi/pdf/10.1145/2983323.2983329) [\[Software\]](https://jundongl.github.io/scikit-feature/featureminer.html) <br>
 **Kewei Cheng**, Jundong Li and Huan Liu. <br>
 ACM International Conference on Information and Knowledge Management (**CIKM 2016**). 
 
@@ -50,7 +50,7 @@ ACM International Conference on Information and Knowledge Management (**CIKM 201
 **Kewei Cheng**, Tao Fan, Yilun Jin, Yang Liu, Tianjian Chen, Qiang Yang <br>
 IEEE Intelligent Systems, 2021.
 
-2. Feature Selection: A Data Perspective [\[PDF\]](https://arxiv.org/pdf/1601.07996.pdf)<br>
+2. Feature Selection: A Data Perspective [\[PDF\]](https://arxiv.org/pdf/1601.07996.pdf) [\[Website\]](https://jundongl.github.io/scikit-feature/) <br>
 Jundong Li, **Kewei Cheng**, Suhang Wang, Fred Morstatter, Robert P. Trevino, Jiliang
 Tang and Huan Liu. <br>
 ACM Computing Surveys (**CSUR 2017**)
