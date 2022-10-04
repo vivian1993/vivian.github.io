@@ -15,7 +15,7 @@ redirect_from:
 
 Work Experience
 ======
-* Applied Scientist (June 2022 – Sept. 2022)
+* Research Intern (June 2022 – Sept. 2022)
   * Company: Intel AI Lab
   * Duties: Develop logical rule learning framework for knowledge graph reasoning.
   * Supervisor: Nesreen Ahmed
