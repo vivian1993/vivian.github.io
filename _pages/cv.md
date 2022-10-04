@@ -15,32 +15,32 @@ redirect_from:
 
 Work Experience
 ======
-* Applied Scientist (June 2022 – Sep 2022)
+* Applied Scientist (June 2022 – Sept. 2022)
   * Company: Intel AI Lab
   * Duties: Develop logical rule learning framework for knowledge graph reasoning.
   * Supervisor: Nesreen Ahmed
   
-* Applied Scientist (June 2021 – Dec 2021)
+* Applied Scientist (June 2021 – Dec. 2021)
   * Company: Amazon
   * Duties: Develop a novel Transformers-based model for automatic data cleaning purpose.
   * Supervisor: Xian Li
 
-* Applied Scientist (June 2020 – Dec 2020)
+* Applied Scientist (June 2020 – Dec. 2020)
   * Company: Amazon
   * Duties: Develop an end-to-end embedding learning framework, PGE, to jointly leverage both text information and graph structure in PG to learn embeddings for error detection.
   * Supervisor: Xin Luna Dong
 
-* Research Intern (Mar 2018 – Aug 2018)
+* Research Intern (Mar. 2018 – Aug. 2018)
   * Company: Webank
   * Duties: Develop an open-source lossless privacy-preserving tree-boosting system known as SecureBoost in the setting of federated learning. 
   * Supervisor: Prof. Qiang Yang
 
-* Research Intern (Aug 2017 – Dec 2017)
+* Research Intern (Aug. 2017 – Dec. 2017)
   * Company: MSRA
   * Duties: Investigated cold start link prediction by leveraging HIN (heterogeneous information network) among users. 
   * Supervisor: Prof. Xing Xie
 
-* Research Intern (May 2017 – Aug 2017)
+* Research Intern (May 2017 – Aug. 2017)
   * Company: Didi
   * Duties: Investigated cold start link prediction by leveraging HIN (heterogeneous information network) among users. 
   * Supervisor: Yashu Liu
