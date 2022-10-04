@@ -10,8 +10,8 @@ author_profile: true
 Xin Jiang\*, **Kewei Cheng\***, Song Jiang\*, Yizhou Sun <br>
 
 ## Conference Publications
-1. (To appear) RLogic: Recursive Logical Rule
-Learning from Knowledge Graphs. [\[PDF\]](https://vivian1993.github.io//publications/) [\[Code\]](https://vivian1993.github.io//publications/) [\[Slides\]](https://vivian1993.github.io//publications/)<br>
+1. RLogic: Recursive Logical Rule
+Learning from Knowledge Graphs. [\[PDF\]]([https://vivian1993.github.io//publications/](https://web.cs.ucla.edu/~yzsun/papers/2022_KDD_RLogic.pdf)) [\[Code\]](https://vivian1993.github.io//publications/) [\[Slides\]](https://vivian1993.github.io//publications/)<br>
 **Kewei Cheng**, Jiahao Liu, Wei Wang, Yizhou Sun <br>
 ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD 2022**). 
 
