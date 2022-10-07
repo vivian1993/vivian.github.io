@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a forth-year Ph.D. student at the UCLA, now working with [Prof. Yizhou Sun](https://web.cs.ucla.edu/~yzsun/). Prior to joining in UCLA, I obtained my master's degree from Arizona State University, where I worked with [Prof. Huan Liu](https://www.public.asu.edu/~huanliu/).
+I am a final-year Ph.D. student at the UCLA, now working with [Prof. Yizhou Sun](https://web.cs.ucla.edu/~yzsun/). Prior to joining in UCLA, I obtained my master's degree from Arizona State University, where I worked with [Prof. Huan Liu](https://www.public.asu.edu/~huanliu/).
 
 Research Interests
 ---
