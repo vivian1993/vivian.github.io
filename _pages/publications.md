@@ -11,15 +11,15 @@ Xin Jiang\*, **Kewei Cheng\***, Song Jiang\*, Yizhou Sun <br>
 
 ## Conference Publications
 1. RLogic: Recursive Logical Rule
-Learning from Knowledge Graphs. [\[PDF\]](https://web.cs.ucla.edu/~yzsun/papers/2022_KDD_RLogic.pdf) [\[Code\]](https://vivian1993.github.io//publications/) [\[Slides\]](https://vivian1993.github.io//publications/)<br>
+Learning from Knowledge Graphs. [\[PDF\]](https://web.cs.ucla.edu/~yzsun/papers/2022_KDD_RLogic.pdf) [\[Code\]](https://vivian1993.github.io//publications/) [\[Slides\]](https://drive.google.com/file/d/1O2NhJnr1sc-Sv5vOO2w9JWseQ4vUZCly/view?usp=sharing)<br>
 **Kewei Cheng**, Jiahao Liu, Wei Wang, Yizhou Sun <br>
 ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD 2022**). 
 
-2. PGE: Product Graph Embedding Learning for Error Detection. [\[PDF\]](https://arxiv.org/pdf/2202.09747.pdf) [\[Slides\]](https://vivian1993.github.io//publications/) <br>
+2. PGE: Product Graph Embedding Learning for Error Detection. [\[PDF\]](https://arxiv.org/pdf/2202.09747.pdf) [\[Slides\]](https://drive.google.com/file/d/12Qz6oSXAKKKUwB6yCaf3oCTjB0mEvN0r/view?usp=sharing) <br> 
 **Kewei Cheng**, Xian Li, Yifan Ethan Xu, Xin Luna Dong and Yizhou Sun <br>
 International Conference on Very Large Databases (**VLDB 2022**). 
 
-3. UniKER: A Unified Framework for Combining Embedding and DefiniteHorn Rule Reasoning for Knowledge Graph Inference [\[PDF\]](https://aclanthology.org/2021.emnlp-main.769.pdf) [\[Code\]](https://github.com/vivian1993/UniKER) [\[Slides\]](https://vivian1993.github.io//publications/)<br>
+3. UniKER: A Unified Framework for Combining Embedding and DefiniteHorn Rule Reasoning for Knowledge Graph Inference [\[PDF\]](https://aclanthology.org/2021.emnlp-main.769.pdf) [\[Code\]](https://github.com/vivian1993/UniKER) [\[Slides\]](https://drive.google.com/file/d/1DYLzHudklvYKYsyN8OcgwaKHsLHn6Pmy/view?usp=sharing)<br>
 **Kewei Cheng**, Ziqing Yang, Ming Zhang and Yizhou Sun <br>
 Conference on Empirical Methods in Natural Language Processing (**EMNLP 2021**). 
 ICML Workshop on Graph Representation Learning and Beyond 2020.
