@@ -13,6 +13,11 @@ redirect_from:
 * M.S. in Arizona State University, 2017
 * B.S. in Sichuan University, 2015
 
+Resume
+======
+[Resume (Updated: 02/06/2023)](https://drive.google.com/file/d/1yDRdtVZEEpRUGfKfy7vLWvvSFv1-CFdT/view?usp=sharing)
+
+
 Work Experience
 ======
 * Research Intern (June 2022 – Sept. 2022)
