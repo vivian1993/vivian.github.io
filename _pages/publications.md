@@ -22,7 +22,6 @@ International Conference on Very Large Databases (**VLDB 2022**).
 3. UniKER: A Unified Framework for Combining Embedding and DefiniteHorn Rule Reasoning for Knowledge Graph Inference [\[PDF\]](https://aclanthology.org/2021.emnlp-main.769.pdf) [\[Code\]](https://github.com/vivian1993/UniKER) [\[Slides\]](https://drive.google.com/file/d/1DYLzHudklvYKYsyN8OcgwaKHsLHn6Pmy/view?usp=sharing)<br>
 **Kewei Cheng**, Ziqing Yang, Ming Zhang and Yizhou Sun <br>
 Conference on Empirical Methods in Natural Language Processing (**EMNLP 2021**). 
-ICML Workshop on Graph Representation Learning and Beyond 2020.
 
 4. Decentralized Context-Based On-Board Planning for Earth Observation Missions. [\[PDF\]](https://arc.aiaa.org/doi/pdf/10.2514/6.2021-1469) <br>
 Antoni Viros Martin, **Kewei Cheng**, Amy Fang, Zhaoliang Zheng, Hadas Kress-Gazit,
@@ -46,9 +45,9 @@ Association for the Advancement of Artificial Intelligence (**AAAI 2017**).
 ACM International Conference on Information and Knowledge Management (**CIKM 2016**). 
 
 ### Journal Papers
-1. SecureBoost: A Lossless Federated Learning Framework [\[PDF\]](https://arxiv.org/pdf/1901.08755.pdf) [\[Code\]](https://github.com/FederatedAI/FATE) <br>
+1. SecureBoost: A Lossless Federated Learning Framework [\[PDF\]](https://arxiv.org/pdf/1901.08755.pdf) [\[Code\]](https://github.com/FederatedAI/FATE)  <br>
 **Kewei Cheng**, Tao Fan, Yilun Jin, Yang Liu, Tianjian Chen, Qiang Yang <br>
-IEEE Intelligent Systems, 2021.
+IEEE Intelligent Systems, 2021 (**Best Paper Award**) 
 
 2. Feature Selection: A Data Perspective [\[PDF\]](https://arxiv.org/pdf/1601.07996.pdf) [\[Website\]](https://jundongl.github.io/scikit-feature/) <br>
 Jundong Li, **Kewei Cheng**, Suhang Wang, Fred Morstatter, Robert P. Trevino, Jiliang
@@ -60,12 +59,20 @@ Li Shu, **Kewei Cheng**, Xiaowen Zhang and Jiliu Zhou
 Journal of Networks (**JNW 2014**)
 
 ### Workshop Papers
-1. NoiGAN: Noise Aware Knowledge Graph Embedding with GAN. <br>
-**Kewei Cheng**, Yikai Zhu, Ming Zhang, Yizhou Sun <br>
-DLG-KDD'20 Workshop
+1. UniKER: A Unified Framework for Combining Embedding and DefiniteHorn Rule Reasoning for Knowledge Graph Inference. <br>
+**Kewei Cheng**, Ziqing Yang, Ming Zhang and Yizhou Sun <br> 
+ICML 2020 Workshop on Graph Representation Learning and Beyond (GRL+@ICML’20) <br> 
+The 2rd International Workshop on Deep Learning on Graphs: Methods and Applications (DLG-KDD’20)
 
-2. SecureBoost: A Lossless Federated Learning Framework <br>
+2. NoiGAN: Noise Aware Knowledge Graph Embedding with GAN. <br>
+**Kewei Cheng**, Yikai Zhu, Ming Zhang, Yizhou Sun <br>
+The 2rd International Workshop on Deep Learning on Graphs: Methods and Applications (DLG-
+KDD’20)
+
+3. SecureBoost: A Lossless Federated Learning Framework. <br>
 **Kewei Cheng**, Tao Fan, Yilun Jin, Yang Liu, Tianjian Chen, Qiang Yang <br>
-FL-IJCAI 2019 Workshop
+International Workshop on Trustworthy Federated Learning in Conjunction with IJCAI
+(FL-IJCAI’19)
+
 
 
