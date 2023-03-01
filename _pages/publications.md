@@ -44,7 +44,7 @@ Association for the Advancement of Artificial Intelligence (**AAAI 2017**).
 **Kewei Cheng**, Jundong Li and Huan Liu. <br>
 ACM International Conference on Information and Knowledge Management (**CIKM 2016**). 
 
-### Journal Papers
+## Journal Papers
 1. SecureBoost: A Lossless Federated Learning Framework [\[PDF\]](https://arxiv.org/pdf/1901.08755.pdf) [\[Code\]](https://github.com/FederatedAI/FATE)  <br>
 **Kewei Cheng**, Tao Fan, Yilun Jin, Yang Liu, Tianjian Chen, Qiang Yang <br>
 IEEE Intelligent Systems, 2021 (**Best Paper Award**) 
@@ -58,7 +58,7 @@ ACM Computing Surveys (**CSUR 2017**)
 Li Shu, **Kewei Cheng**, Xiaowen Zhang and Jiliu Zhou
 Journal of Networks (**JNW 2014**)
 
-### Workshop Papers
+## Workshop Papers
 1. UniKER: A Unified Framework for Combining Embedding and DefiniteHorn Rule Reasoning for Knowledge Graph Inference. <br>
 **Kewei Cheng**, Ziqing Yang, Ming Zhang and Yizhou Sun <br> 
 ICML 2020 Workshop on Graph Representation Learning and Beyond (GRL+@ICML’20) <br> 
