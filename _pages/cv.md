@@ -15,8 +15,7 @@ redirect_from:
 
 Resume
 ======
-[Resume (Updated: 02/06/2023)](https://drive.google.com/file/d/1yDRdtVZEEpRUGfKfy7vLWvvSFv1-CFdT/view?usp=sharing)
-
+Download my [CV](https://drive.google.com/file/d/1yDRdtVZEEpRUGfKfy7vLWvvSFv1-CFdT/view?usp=sharing) (Updated: 02/06/2023)
 
 Work Experience
 ======
