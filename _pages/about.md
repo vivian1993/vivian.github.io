@@ -14,6 +14,11 @@ Research Interests
 ---
 My principal research interests are generally in data mining, artificial intelligence, machine learning, and natural language processing, with a focus on **neural-symbolic knowledge graph reasoning**.
 
+Honors and Awards
+---
+* [Amazon PhD Fellowship](https://www.sciencehub.ucla.edu/2022-amazon-fellows/) in 2023
+* Best Paper Award for IEEE Intelligent Systems in 2021
+
 Services
 ------
 * **Invited Senior Program Committee Member**: AAAI 2023
