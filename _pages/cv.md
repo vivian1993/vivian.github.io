@@ -9,9 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-* Ph.D in UCLA, 2023 (expected)
-* M.S. in Arizona State University, 2017
-* B.S. in Sichuan University, 2015
+* Ph.D. in Computer Science, University of California, Los Angeles (UCLA), 2023 (expected)
+* Master of Science in Computer Science, Arizona State University (ASU), 2017
+* Bachelor of Engineering in Software Engineering, Sichuan University (SCU), 2015
 
 Resume
 ======
@@ -21,17 +21,17 @@ Resume
 Work Experience
 ======
 * Research Intern (June 2022 – Sept. 2022)
-  * Company: Intel AI Lab
+  * Company: Intel Labs
   * Duties: Develop logical rule learning framework for knowledge graph reasoning.
-  * Supervisor: Nesreen Ahmed
+  * Supervisor: Nesreen K. Ahmed
   
 * Applied Scientist (June 2021 – Dec. 2021)
-  * Company: Amazon
+  * Company: Amazon Product Graph Team (PG)
   * Duties: Develop a novel Transformers-based model for automatic data cleaning purpose.
   * Supervisor: Xian Li
 
 * Applied Scientist (June 2020 – Dec. 2020)
-  * Company: Amazon
+  * Company: Amazon Product Graph Team (PG)
   * Duties: Develop an end-to-end embedding learning framework, PGE, to jointly leverage both text information and graph structure in PG to learn embeddings for error detection.
   * Supervisor: Xin Luna Dong
 
