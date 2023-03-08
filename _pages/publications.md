@@ -7,7 +7,7 @@ author_profile: true
 
 ## Preprints
 1. Chordal-GCN: Exploiting Sparsity in Training Large-Scale Graph Convolutional Networks. [\[PDF\]](https://openreview.net/forum?id=rJl05AVtwB) <br>
-Xin Jiang\*, **Kewei Cheng\***, Song Jiang\*, Yizhou Sun <br>
+Xin Jiang\*, **Kewei Cheng\***, Song Jiang\* and Yizhou Sun <br>
 
 ## Conference Publications
 1. Neural Compositional Rule Learning for Knowledge Graph Reasoning. [\[PDF\]](https://arxiv.org/abs/2303.03581)) [\[Code\]](https://github.com/vivian1993/NCRL)<br>
