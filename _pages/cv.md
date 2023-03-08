@@ -27,12 +27,12 @@ Work Experience
 * Applied Scientist (June 2021 – Dec. 2021)
   * Company: Amazon Product Graph Team (PG)
   * Duties: Develop a novel Transformers-based model for automatic data cleaning purpose.
-  * Supervisor: Xian Li
+  * Supervisor: Xian Li, Yifan Ethan Xu, Xin Luna Dong
 
 * Applied Scientist (June 2020 – Dec. 2020)
   * Company: Amazon Product Graph Team (PG)
   * Duties: Develop an end-to-end embedding learning framework, PGE, to jointly leverage both text information and graph structure in PG to learn embeddings for error detection.
-  * Supervisor: Xin Luna Dong
+  * Supervisor: Xian Li, Yifan Ethan Xu, Xin Luna Dong
 
 * Research Intern (Mar. 2018 – Aug. 2018)
   * Company: Webank
@@ -47,5 +47,4 @@ Work Experience
 * Research Intern (May 2017 – Aug. 2017)
   * Company: Didi
   * Duties: Investigated cold start link prediction by leveraging HIN (heterogeneous information network) among users. 
-  * Supervisor: Yashu Liu
   
