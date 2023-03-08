@@ -27,8 +27,8 @@ International Conference on Very Large Databases (**VLDB 2022**).
 Conference on Empirical Methods in Natural Language Processing (**EMNLP 2021**). 
 
 5. Decentralized Context-Based On-Board Planning for Earth Observation Missions. [\[PDF\]](https://arc.aiaa.org/doi/pdf/10.2514/6.2021-1469) <br>
-Antoni Viros Martin, **Kewei Cheng**, Amy Fang, Zhaoliang Zheng, Hadas Kress-Gazit,
-Ankur Mehta, Daniel Selva, Yizhou Sun <br>
+Antoni Viros Martin, **Kewei Cheng**, Zhaoliang Zheng, Amy Fang, Hadas Kress-Gazit,
+Ankur Mehta, Yizhou Sun, Daniel Selva <br>
 AIAA Scitech 2021 Forum.
 
 6. Streaming Link Prediction on Dynamic Attributed Networks. [\[PDF\]](https://dl.acm.org/doi/pdf/10.1145/3159652.3159674) <br>
