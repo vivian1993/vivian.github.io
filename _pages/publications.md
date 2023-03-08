@@ -49,7 +49,7 @@ ACM International Conference on Information and Knowledge Management (**CIKM 201
 
 ## Journal Papers
 1. SecureBoost: A Lossless Federated Learning Framework [\[PDF\]](https://arxiv.org/pdf/1901.08755.pdf) [\[Code\]](https://github.com/FederatedAI/FATE)  <br>
-**Kewei Cheng**, Tao Fan, Yilun Jin, Yang Liu, Tianjian Chen, Qiang Yang <br>
+**Kewei Cheng**, Tao Fan, Yilun Jin, Yang Liu, Tianjian Chen, Dimitrios Papadopoulos, Qiang Yang <br>
 IEEE Intelligent Systems, 2021 (**Best Paper Award**) 
 
 2. Feature Selection: A Data Perspective [\[PDF\]](https://arxiv.org/pdf/1601.07996.pdf) [\[Website\]](https://jundongl.github.io/scikit-feature/) <br>
@@ -73,7 +73,7 @@ The 2rd International Workshop on Deep Learning on Graphs: Methods and Applicati
 KDD’20)
 
 3. SecureBoost: A Lossless Federated Learning Framework. <br>
-**Kewei Cheng**, Tao Fan, Yilun Jin, Yang Liu, Tianjian Chen, Qiang Yang <br>
+**Kewei Cheng**, Tao Fan, Yilun Jin, Yang Liu, Tianjian Chen, Dimitrios Papadopoulos, Qiang Yang <br>
 International Workshop on Trustworthy Federated Learning in Conjunction with IJCAI
 (FL-IJCAI’19)
 
