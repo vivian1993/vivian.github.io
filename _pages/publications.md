@@ -32,19 +32,19 @@ Ankur Mehta, Daniel Selva, Yizhou Sun <br>
 AIAA Scitech 2021 Forum.
 
 6. Streaming Link Prediction on Dynamic Attributed Networks. [\[PDF\]](https://dl.acm.org/doi/pdf/10.1145/3159652.3159674) <br>
-Jundong Li, **Kewei Cheng**, Liang Wu and Huan Liu. <br>
+Jundong Li, **Kewei Cheng**, Liang Wu and Huan Liu <br>
 ACM International Conference on Web Search and Data Mining (**WSDM 2018**). 
 
 7. Unsupervised Feature Selection in Signed Social Networks. [\[PDF\]](https://dl.acm.org/doi/pdf/10.1145/3097983.3098106) <br>
-**Kewei Cheng\***, Jundong Li\* and Huan Liu. <br>
+**Kewei Cheng\***, Jundong Li\* and Huan Liu <br>
 ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD 2017**). 
 
 8. Unsupervised Sentiment Analysis with Signed Social Networks. [\[PDF\]](https://www.public.asu.edu/~huanliu/papers/AAAI2017.pdf) <br>
-**Kewei Cheng**, Jundong Li, Jiliang Tang and Huan Liu. <br>
+**Kewei Cheng**, Jundong Li, Jiliang Tang and Huan Liu <br>
 Association for the Advancement of Artificial Intelligence (**AAAI 2017**). 
 
 9. FeatureMiner: A Tool for Interactive Feature Selection. [\[PDF\]](https://dl.acm.org/doi/pdf/10.1145/2983323.2983329) [\[Software\]](https://jundongl.github.io/scikit-feature/featureminer.html) <br>
-**Kewei Cheng**, Jundong Li and Huan Liu. <br>
+**Kewei Cheng**, Jundong Li and Huan Liu <br>
 ACM International Conference on Information and Knowledge Management (**CIKM 2016**). 
 
 ## Journal Papers
@@ -54,11 +54,11 @@ IEEE Intelligent Systems, 2021 (**Best Paper Award**)
 
 2. Feature Selection: A Data Perspective [\[PDF\]](https://arxiv.org/pdf/1601.07996.pdf) [\[Website\]](https://jundongl.github.io/scikit-feature/) <br>
 Jundong Li, **Kewei Cheng**, Suhang Wang, Fred Morstatter, Robert P. Trevino, Jiliang
-Tang and Huan Liu. <br>
+Tang and Huan Liu <br>
 ACM Computing Surveys (**CSUR 2017**)
 
 3. Periodic Sweep Coverage Scheme Based on Periodic Vehicle Routing Problem [\[PDF\]](http://www.cs.csi.cuny.edu/~zhangx/papers/J_2014_JN_Shu_CZZ.pdf)<br>
-Li Shu, **Kewei Cheng**, Xiaowen Zhang and Jiliu Zhou
+Li Shu, **Kewei Cheng**, Xiaowen Zhang and Jiliu Zhou <br>
 Journal of Networks (**JNW 2014**)
 
 ## Workshop Papers
