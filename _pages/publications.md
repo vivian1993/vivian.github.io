@@ -10,7 +10,7 @@ author_profile: true
 Xin Jiang\*, **Kewei Cheng\***, Song Jiang\* and Yizhou Sun <br>
 
 ## Conference Publications
-1. Neural Compositional Rule Learning for Knowledge Graph Reasoning. [\[PDF\]](https://arxiv.org/abs/2303.03581)) [\[Code\]](https://github.com/vivian1993/NCRL)<br>
+1. Neural Compositional Rule Learning for Knowledge Graph Reasoning. [\[PDF\]](https://arxiv.org/abs/2303.03581)) [\[Code\]](https://github.com/vivian1993/NCRL) [\[Slides\]](https://drive.google.com/file/d/1os--HMGN0h3QwRltojcjwqS6kcJr5Vti/view?usp=sharing)<br>
 **Kewei Cheng**, Nesreen K. Ahmed and Yizhou Sun <br>
 International Conference on Learning Representations (**ICLR 2023**). 
 
