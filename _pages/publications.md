@@ -10,39 +10,43 @@ author_profile: true
 Xin Jiang\*, **Kewei Cheng\***, Song Jiang\* and Yizhou Sun <br>
 
 ## Conference Publications
-1. Neural Compositional Rule Learning for Knowledge Graph Reasoning. [\[PDF\]](https://arxiv.org/abs/2303.03581)) [\[Code\]](https://github.com/vivian1993/NCRL) [\[Slides\]](https://drive.google.com/file/d/1os--HMGN0h3QwRltojcjwqS6kcJr5Vti/view?usp=sharing)<br>
+1. Tab-Cleaner: Weakly Supervised Tabular Data Cleaning via Pre-training for E-commerce Catalog. [\[PDF\]](https://aclanthology.org/2023.acl-industry.18.pdf)<br>
+**Kewei Cheng**, Xian Li, Zhengyang Wang, Chenwei Zhang, Binxuan Huang, Yifan Ethan Xu, Xin Luna Dong and Yizhou Sun <br>
+Annual Meeting of the Association for Computational Linguistics (**ACL 2023**) - Industry Track
+
+3. Neural Compositional Rule Learning for Knowledge Graph Reasoning. [\[PDF\]](https://arxiv.org/abs/2303.03581)) [\[Code\]](https://github.com/vivian1993/NCRL) [\[Slides\]](https://drive.google.com/file/d/1os--HMGN0h3QwRltojcjwqS6kcJr5Vti/view?usp=sharing)<br>
 **Kewei Cheng**, Nesreen K. Ahmed and Yizhou Sun <br>
 International Conference on Learning Representations (**ICLR 2023**). 
 
-2. RLogic: Recursive Logical Rule Learning from Knowledge Graphs. [\[PDF\]](https://web.cs.ucla.edu/~yzsun/papers/2022_KDD_RLogic.pdf) [\[Code\]](https://github.com/vivian1993/RLogic) [\[Slides\]](https://drive.google.com/file/d/1O2NhJnr1sc-Sv5vOO2w9JWseQ4vUZCly/view?usp=sharing)<br>
+4. RLogic: Recursive Logical Rule Learning from Knowledge Graphs. [\[PDF\]](https://web.cs.ucla.edu/~yzsun/papers/2022_KDD_RLogic.pdf) [\[Code\]](https://github.com/vivian1993/RLogic) [\[Slides\]](https://drive.google.com/file/d/1O2NhJnr1sc-Sv5vOO2w9JWseQ4vUZCly/view?usp=sharing)<br>
 **Kewei Cheng**, Jiahao Liu, Wei Wang and Yizhou Sun <br>
 ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD 2022**). 
 
-3. PGE: Product Graph Embedding Learning for Error Detection. [\[PDF\]](https://arxiv.org/pdf/2202.09747.pdf) [\[Slides\]](https://drive.google.com/file/d/12Qz6oSXAKKKUwB6yCaf3oCTjB0mEvN0r/view?usp=sharing) <br> 
+5. PGE: Product Graph Embedding Learning for Error Detection. [\[PDF\]](https://arxiv.org/pdf/2202.09747.pdf) [\[Slides\]](https://drive.google.com/file/d/12Qz6oSXAKKKUwB6yCaf3oCTjB0mEvN0r/view?usp=sharing) <br> 
 **Kewei Cheng**, Xian Li, Yifan Ethan Xu, Xin Luna Dong and Yizhou Sun <br>
 International Conference on Very Large Databases (**VLDB 2022**). 
 
-4. UniKER: A Unified Framework for Combining Embedding and DefiniteHorn Rule Reasoning for Knowledge Graph Inference [\[PDF\]](https://aclanthology.org/2021.emnlp-main.769.pdf) [\[Code\]](https://github.com/vivian1993/UniKER) [\[Slides\]](https://drive.google.com/file/d/1DYLzHudklvYKYsyN8OcgwaKHsLHn6Pmy/view?usp=sharing)<br>
+6. UniKER: A Unified Framework for Combining Embedding and DefiniteHorn Rule Reasoning for Knowledge Graph Inference [\[PDF\]](https://aclanthology.org/2021.emnlp-main.769.pdf) [\[Code\]](https://github.com/vivian1993/UniKER) [\[Slides\]](https://drive.google.com/file/d/1DYLzHudklvYKYsyN8OcgwaKHsLHn6Pmy/view?usp=sharing)<br>
 **Kewei Cheng**, Ziqing Yang, Ming Zhang and Yizhou Sun <br>
 Conference on Empirical Methods in Natural Language Processing (**EMNLP 2021**). 
 
-5. Decentralized Context-Based On-Board Planning for Earth Observation Missions. [\[PDF\]](https://arc.aiaa.org/doi/pdf/10.2514/6.2021-1469) <br>
+7. Decentralized Context-Based On-Board Planning for Earth Observation Missions. [\[PDF\]](https://arc.aiaa.org/doi/pdf/10.2514/6.2021-1469) <br>
 Antoni Viros Martin, **Kewei Cheng**, Zhaoliang Zheng, Amy Fang, Hadas Kress-Gazit, Ankur Mehta, Yizhou Sun and Daniel Selva <br>
 AIAA Scitech 2021 Forum.
 
-6. Streaming Link Prediction on Dynamic Attributed Networks. [\[PDF\]](https://dl.acm.org/doi/pdf/10.1145/3159652.3159674) <br>
+8. Streaming Link Prediction on Dynamic Attributed Networks. [\[PDF\]](https://dl.acm.org/doi/pdf/10.1145/3159652.3159674) <br>
 Jundong Li, **Kewei Cheng**, Liang Wu and Huan Liu <br>
 ACM International Conference on Web Search and Data Mining (**WSDM 2018**). 
 
-7. Unsupervised Feature Selection in Signed Social Networks. [\[PDF\]](https://dl.acm.org/doi/pdf/10.1145/3097983.3098106) <br>
+9. Unsupervised Feature Selection in Signed Social Networks. [\[PDF\]](https://dl.acm.org/doi/pdf/10.1145/3097983.3098106) <br>
 **Kewei Cheng\***, Jundong Li\* and Huan Liu <br>
 ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD 2017**). 
 
-8. Unsupervised Sentiment Analysis with Signed Social Networks. [\[PDF\]](https://www.public.asu.edu/~huanliu/papers/AAAI2017.pdf) <br>
+10. Unsupervised Sentiment Analysis with Signed Social Networks. [\[PDF\]](https://www.public.asu.edu/~huanliu/papers/AAAI2017.pdf) <br>
 **Kewei Cheng**, Jundong Li, Jiliang Tang and Huan Liu <br>
 Association for the Advancement of Artificial Intelligence (**AAAI 2017**). 
 
-9. FeatureMiner: A Tool for Interactive Feature Selection. [\[PDF\]](https://dl.acm.org/doi/pdf/10.1145/2983323.2983329) [\[Software\]](https://jundongl.github.io/scikit-feature/featureminer.html) <br>
+11. FeatureMiner: A Tool for Interactive Feature Selection. [\[PDF\]](https://dl.acm.org/doi/pdf/10.1145/2983323.2983329) [\[Software\]](https://jundongl.github.io/scikit-feature/featureminer.html) <br>
 **Kewei Cheng**, Jundong Li and Huan Liu <br>
 ACM International Conference on Information and Knowledge Management (**CIKM 2016**). 
 
