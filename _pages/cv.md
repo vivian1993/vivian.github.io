@@ -19,6 +19,11 @@ Download my [CV](https://drive.google.com/file/d/1yDRdtVZEEpRUGfKfy7vLWvvSFv1-CF
 
 Work Experience
 ======
+* Research Intern (June 2023 – Sept. 2023)
+  * Company: Intel Labs
+  * Duties: Explore LLM for multi-hop reasoning.
+  * Supervisor: Nesreen K. Ahmed
+
 * Research Intern (June 2022 – Sept. 2022)
   * Company: Intel Labs
   * Duties: Develop logical rule learning framework for knowledge graph reasoning.
@@ -26,7 +31,7 @@ Work Experience
   
 * Applied Scientist (June 2021 – Dec. 2021)
   * Company: Amazon Product Graph Team (PG)
-  * Duties: Develop a novel Transformers-based model for automatic data cleaning purpose.
+  * Duties: Develop a novel Transformers-based model for automatic data cleaning purposes.
   * Supervisor: Xian Li, Yifan Ethan Xu, Xin Luna Dong
 
 * Applied Scientist (June 2020 – Dec. 2020)
