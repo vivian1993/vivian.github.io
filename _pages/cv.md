@@ -21,7 +21,7 @@ Work Experience
 ======
 * Research Intern (June 2023 – Sept. 2023)
   * Company: Intel Labs
-  * Duties: Explore LLM for multi-hop reasoning.
+  * Duties: Explore LLM for logical reasoning.
   * Supervisor: Nesreen K. Ahmed
 
 * Research Intern (June 2022 – Sept. 2022)
