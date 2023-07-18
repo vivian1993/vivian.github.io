@@ -21,7 +21,7 @@ Honors and Awards
 
 Services
 ------
-* **Invited Senior Program Committee Member**: AAAI 2023
+* **Invited Senior Program Committee Member**: AAAI 2023, AAAI 2024
 * **Invited Program Committee Member**: SIGKDD 2020, SIGKDD 2022, SIGKDD 2023
 * **Invited Reviewer & External Reviewer**:
 SIGKDD, SIGMOD, ICLR, NeurIPS, AAAI, IJCAI, ICDE, ICDM, CIKM, SDM, WSDM, ECML-PKDD, PAKDD, BigData, SBP-BRiMS, RecSys, JMLR, TKDE, TKDD, TIST, NEUCOM, KAIS etc.
